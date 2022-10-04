@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "product_name":"Smart TV",
+        "category":"Electronics",
+        "category_id":3,
+        "price":26999,
+        "size":"43 inches",
+        "image":"https://m.media-amazon.com/images/I/81I5oICiIzL._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"black",
+        "Brand":"oneplus"
+    },
+    {
+        "id":2,
+        "product_name":"Refrigerator",
+        "category":"Electronics",
+        "category_id":3,
+        "price":16999,
+        "size":"192 litres",
+        "image":"https://m.media-amazon.com/images/I/81FyYXoQF-L._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"silver",
+        "Brand":"Samsung"
+    },
+    {
+        "id":3,
+        "product_name":"Air-conditioner",
+        "category":"Electronics",
+        "category_id":3,
+        "price":41999,
+        "size":"1.5 ton",
+        "image":"https://m.media-amazon.com/images/I/51v0JgEpzfL._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"white",
+        "Brand":"Voltas"
+    },
+    {
+        "id":4,
+        "product_name":"Geyser",
+        "category":"Electronics",
+        "category_id":3,
+        "price":5999,
+        "size":"15 liters",
+        "image":"https://m.media-amazon.com/images/I/41PWw8bHxWL._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"white",
+        "Brand":"crompton"
+    },
+    {
+        "id":5,
+        "product_name":"Microwave",
+        "category":"Electronics",
+        "category_id":3,
+        "price":6999,
+        "size":"25 litre",
+        "image":"https://m.media-amazon.com/images/I/618O0ywM1SL._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"black",
+        "Brand":"Philips"
+    },
+    {
+        "id":6,
+        "product_name":"Mixer grinder",
+        "category":"Electronics",
+        "category_id":3,
+        "price":7350,
+        "size":"1000 watts",
+        "image":"https://m.media-amazon.com/images/I/71QKi6wQPGL._AC_UY327_FMwebp_QL65_.jpg",
+        "color":"Grey",
+        "Brand":"Bosch"
+    }
+]

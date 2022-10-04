@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "product_name":"Atta",
+        "category":"Fresh",
+        "category_id":4,
+        "price":750,
+        "size":"10kg",
+        "image":"https://m.media-amazon.com/images/I/81pDk4-gYQL._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"ASSHIRVAAD"
+    },
+    {
+        "id":2,
+        "product_name":"Cream",
+        "category":"Fresh",
+        "category_id":4,
+        "price":85,
+        "size":"250ml",
+        "image":"https://m.media-amazon.com/images/I/71MNq8ICMNL._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"Amul"
+    },
+    {
+        "id":3,
+        "product_name":"Fruit jam",
+        "category":"Fresh",
+        "category_id":4,
+        "price":155,
+        "size":"1kg",
+        "image":"https://m.media-amazon.com/images/I/61Lpw+HIeLL._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"Kissan"
+    },
+    {
+        "id":4,
+        "product_name":"Cashews",
+        "category":"Fresh",
+        "category_id":4,
+        "price":250,
+        "size":"200g",
+        "image":"https://m.media-amazon.com/images/I/61BvOiNj62L._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"TATA Sampann"
+    },
+    {
+        "id":5,
+        "product_name":"Almond",
+        "category":"Fresh",
+        "category_id":4,
+        "price":245,
+        "size":"200g",
+        "image":"https://m.media-amazon.com/images/I/71M6kMdnqTL._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"Happilo"
+    },
+    {
+        "id":6,
+        "product_name":"Ghee",
+        "category":"Fresh",
+        "category_id":4,
+        "price":550,
+        "size":"1 LTR",
+        "image":"https://m.media-amazon.com/images/I/61ZYYrmeHuL._AC_UL480_FMwebp_QL65_.jpg",
+        "Brand":"Mother Dairy"
+    }
+]
